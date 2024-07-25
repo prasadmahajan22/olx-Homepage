@@ -16,7 +16,7 @@ This project aims to replicate the visual layout and basic functionality of the 
 
 ## Demo
 
-https://prasadmahajan22.github.io/olx-Homepage/
+https://prasadmahajan22.github.io/olx-homepage/
 
 
 ## Installation
